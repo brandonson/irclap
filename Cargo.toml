@@ -1,0 +1,13 @@
+[package]
+name = "irclap"
+version = "0.1.0"
+authors = ["Brandon Sanderson <bas.bsanders@gmail.com>"]
+
+[dependencies]
+irc = "0.13"
+clap = "2.30"
+futures = "0.1"
+tokio-core = "0.1"
+
+[dev-dependencies]
+clap = {version = "2.30", features = ["yaml"]}

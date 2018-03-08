@@ -1,0 +1,12 @@
+author: "Brandon Sanderson"
+version: "0.0.1"
+name: "echo"
+
+settings:
+    - trailingvararg
+
+args:
+    - ECHO:
+        multiple: true
+        index: 1
+
