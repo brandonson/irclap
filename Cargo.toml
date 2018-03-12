@@ -3,6 +3,14 @@ name = "irclap"
 version = "0.1.0"
 authors = ["Brandon Sanderson <bas.bsanders@gmail.com>"]
 
+license = "MIT"
+readme = "README.md"
+documentation = "https://docs.rs/irclap"
+homepage = "https://www.github.com/brandonson/irclap"
+repository = "https://www.github.com/brandons/irclap.git"
+
+description = "Bridge between irc and clap to enable better bot command parsing"
+
 [dependencies]
 irc = "0.13"
 clap = "2.30"

@@ -1,6 +1,6 @@
 ## irclap
 
-A bridge between [the irc crate](aatxe/irc) and [clap-rs](kbknapp/clap-rs).
+A bridge between [the irc crate](https://www.github.com/aatxe/irc) and [clap-rs](https://www.github.com/kbknapp/clap-rs).
 This helps process irc messages as commands, and will also hopefully allow
 accessing bot commands as command line tools (and vice versa)
 
